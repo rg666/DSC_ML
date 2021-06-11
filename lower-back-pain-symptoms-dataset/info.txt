@@ -1,0 +1,6 @@
+ROC curve
+
+21-03
+-- ROCs with different thresholds
+-- Scaling -- MinMax and no scaling
+-- how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering

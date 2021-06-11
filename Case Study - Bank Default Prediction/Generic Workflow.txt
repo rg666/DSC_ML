@@ -1,0 +1,17 @@
+EDA 
+	- Missing, duplicate, outliers
+	- relationships analysis
+	- Distributions
+
+**Feature engineering 
+	- scaling
+	- variable selection
+	- feature extraction(PCA)
+	- building NEW FEATURES(not by PCA)***
+
+Build a model 
+	- Try several options and compare and choose
+
+*Assignment Task - At least build 3 new features*
+*With tree models, get the variable importance of new features*
+*Split then scale*

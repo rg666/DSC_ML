@@ -1,0 +1,10 @@
+https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=CAR+DETAILS+FROM+CAR+DEKHO.csv
+
+Task Details
+Predict the best equation for Sell Price for the car using the any of available datasets
+
+Expected Submission
+Equation for the the task
+
+Evaluation
+We are not judging anyone, your solution is always best in your perpective

@@ -1,0 +1,5 @@
+https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598
+https://www.kaggle.com/carrie1/ecommerce-data
+https://archive.ics.uci.edu/ml/index.php
+data= pd.read_csv('data.csv',encoding= 'ISO-8859-1')
+rahul10412@gmail.com
